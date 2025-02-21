@@ -7,6 +7,8 @@ A simple **Admin Dashboard** built with **React** and **Fluent UI** that allows 
 - Edit existing users.
 - Delete users with confirmation.
 
+ *************************************************************************************************** 
+
 - View a list of users in a table.
 ![Admin_Dashboard](https://github.com/user-attachments/assets/6a6b4fa6-5dfb-4c52-b443-362c55df200a)
 
