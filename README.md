@@ -49,6 +49,7 @@ A simple **Admin Dashboard** built with **React** and **Fluent UI** that allows 
 
 *******************************************************************************************************************
 
-New Component 'webpage' added
+- **New Component 'webpage' added**
+
 ![image](https://github.com/user-attachments/assets/3dc45a2e-b155-432b-b5fc-47e9049b5ef7)
 
