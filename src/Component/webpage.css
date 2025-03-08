@@ -1,0 +1,46 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+
+    
+}
+
+.dashboard-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    text-align: left;
+}
+
+.dashboard-left, .dashboard-right {
+    width: 48%;
+}
+
+.ms-Button {
+    background-color: #d32f2f;
+    color: white;
+    padding: 15px 20px;
+    border: black;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.ms-Button:hover {
+    background-color: #b71c1c;
+}
+
+body {
+    background-image: url('image.png'); 
+    background-size: 600px 600px;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:linear-gradient (to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+    mix-blend-mode: multiply;
+
+   
+   
+    
+}
